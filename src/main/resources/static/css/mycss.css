@@ -1,0 +1,13 @@
+h1{
+    color: rebeccapurple;
+    font-size: larger;
+}
+
+#table{
+    width: 700px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    text-align: center;
+}
+
